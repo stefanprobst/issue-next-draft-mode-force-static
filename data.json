@@ -1,0 +1,15 @@
+{
+  "static": {
+    "first-post": {
+      "title": "The first post"
+    }
+  },
+  "draft": {
+    "first-post": {
+      "title": "The first post in draft mode"
+    },
+    "new-post": {
+      "title": "This is a new post"
+    }
+  }
+}
